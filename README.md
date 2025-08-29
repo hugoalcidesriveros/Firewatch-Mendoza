@@ -178,17 +178,17 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 ✒️ Autor
 Hugo Alcides Riveros - Alcides.mza@gmail.com
 
-Estudiante de Ingeniería Electrónica (UTN Mendoza).
+- **Estudiante de Ingeniería Electrónica (UTN Mendoza).
 
-Apasionado por la tecnología, sistemas embebidos y IoT.
+- **Apasionado por la tecnología, sistemas embebidos y IoT.
 
 🎯 Próximos Pasos
 Diseñar e imprimir carcasas estancas.
 
-Implementar modo deep sleep en nodos para maximizar autonomía.
+- **Implementar modo deep sleep en nodos para maximizar autonomía.
 
-Desarrollar un dashboard web más completo con mapas y alertas.
+- **Desarrollar un dashboard web más completo con mapas y alertas.
 
-Integrar notificaciones vía email/Telegram.
+- **Integrar notificaciones vía email/Telegram.
 
 ⭐ Si este proyecto te resulta útil, no olvides darle una estrella en GitHub.
