@@ -1,4 +1,4 @@
-##🚨 Sistema de Detección Temprana de Incendios Forestales - Mendoza
+# 🚨 Sistema de Detección Temprana de Incendios Forestales - Mendoza
 https://img.shields.io/badge/Status-En%2520Desarrollo-orange
 https://img.shields.io/badge/Comunicaci%C3%B3n-LoRa%2520915MHz-blue
 https://img.shields.io/badge/Plataforma-ESP32-important
