@@ -176,7 +176,7 @@ Abre un Pull Request.
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
 ✒️ Autor
-Hugo Alcides Riveros - Alcides.mza@gmail.com
+Hugo Alcides Riveros - Alci.tec.mza@gmail.com
 
 - **Estudiante de Ingeniería Electrónica (UTN Mendoza).
 
