@@ -11,6 +11,9 @@ Sistema de monitoreo ambiental diseñado para la detección temprana de incendio
 
 Los datos recopilados (temperatura, humedad, gases combustibles y detección de llamas) son centralizados por un gateway y subidos a la nube (Firebase), donde pueden visualizarse en un dashboard web para la toma de decisiones.
 
+Ingresa a la pagina! 
+https://firewatch-mendoza.web.app/
+
 ## 🎯 Objetivo
 
 Crear una red escalable y autónoma que permita:
